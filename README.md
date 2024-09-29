@@ -1,4 +1,5 @@
 # Hi, I'm Dilan Melvin 👋
+![dilanmelvin](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdjbG4zOHJ6OWJvcTI4MDgzNzdvOHZycXBmdWl4ZDhsbHoyaWtteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12B39IawiNS7QI/giphy.webp)  
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dilan_melvin) 
