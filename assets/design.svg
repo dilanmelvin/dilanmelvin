@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 52" width="680" height="52">
+  <defs>
+    <style>
+      @keyframes desA { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+      @keyframes desB { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-13px); } }
+      @keyframes desC { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+      .dA { animation: desA 4s ease-in-out infinite; }
+      .dB { animation: desB 5.2s ease-in-out infinite; }
+      .dC { animation: desC 3.8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="50" y="32" font-size="20" fill="#a371f7" opacity="0.25" class="dA" style="animation-delay:0s">🎨</text>
+  <text x="140" y="28" font-size="20" fill="#a371f7" opacity="0.20" class="dB" style="animation-delay:0.3s">✏️</text>
+  <text x="230" y="35" font-size="20" fill="#a371f7" opacity="0.28" class="dC" style="animation-delay:0.6s">🖌</text>
+  <text x="320" y="26" font-size="22" fill="#a371f7" opacity="0.18" class="dA" style="animation-delay:0.9s">◈</text>
+  <text x="410" y="33" font-size="22" fill="#a371f7" opacity="0.22" class="dB" style="animation-delay:1.2s">✦</text>
+  <text x="490" y="30" font-size="22" fill="#a371f7" opacity="0.15" class="dC" style="animation-delay:1.5s">⬡</text>
+  <text x="570" y="28" font-size="22" fill="#a371f7" opacity="0.26" class="dA" style="animation-delay:1.8s">◉</text>
+</svg>

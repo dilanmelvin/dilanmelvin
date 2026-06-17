@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 52" width="680" height="52">
+  <defs>
+    <style>
+      @keyframes mlA { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-11px); } }
+      @keyframes mlB { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-13px); } }
+      @keyframes mlC { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-9px); } }
+      .mA { animation: mlA 4s ease-in-out infinite; }
+      .mB { animation: mlB 5.2s ease-in-out infinite; }
+      .mC { animation: mlC 3.8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="30" y="32" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.25" class="mA" style="animation-delay:0s">∇</text>
+  <text x="100" y="28" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.20" class="mB" style="animation-delay:0.3s">λ</text>
+  <text x="170" y="35" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.28" class="mC" style="animation-delay:0.6s">σ</text>
+  <text x="240" y="26" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.18" class="mA" style="animation-delay:0.9s">∑</text>
+  <text x="310" y="33" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.22" class="mB" style="animation-delay:1.2s">μ</text>
+  <text x="380" y="30" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.15" class="mC" style="animation-delay:1.5s">∂</text>
+  <text x="450" y="28" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.26" class="mA" style="animation-delay:1.8s">⊕</text>
+  <text x="520" y="34" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.19" class="mB" style="animation-delay:2.1s">α</text>
+  <text x="580" y="27" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.23" class="mC" style="animation-delay:2.4s">β</text>
+  <text x="640" y="31" font-family="serif" font-size="22" fill="#58a6ff" opacity="0.17" class="mA" style="animation-delay:2.7s">θ</text>
+</svg>

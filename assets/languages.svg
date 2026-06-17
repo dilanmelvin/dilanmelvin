@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 52" width="680" height="52">
+  <defs>
+    <style>
+      @keyframes langA { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+      @keyframes langB { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-12px); } }
+      @keyframes langC { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+      .lA { animation: langA 4s ease-in-out infinite; }
+      .lB { animation: langB 5.2s ease-in-out infinite; }
+      .lC { animation: langC 3.8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="20" y="32" font-size="20" opacity="0.25" class="lA" style="animation-delay:0s">🐍</text>
+  <text x="75" y="28" font-size="20" opacity="0.20" class="lB" style="animation-delay:0.3s">🟨</text>
+  <text x="130" y="35" font-size="20" opacity="0.28" class="lC" style="animation-delay:0.6s">☕</text>
+  <text x="185" y="26" font-size="20" opacity="0.18" class="lA" style="animation-delay:0.9s">🎯</text>
+  <text x="240" y="33" font-size="20" opacity="0.22" class="lB" style="animation-delay:1.2s">🎪</text>
+  <text x="295" y="30" font-size="20" opacity="0.15" class="lC" style="animation-delay:1.5s">⚡</text>
+  <text x="350" y="28" font-size="20" opacity="0.26" class="lA" style="animation-delay:1.8s">🔷</text>
+  <text x="405" y="34" font-size="20" opacity="0.19" class="lB" style="animation-delay:2.1s">📜</text>
+  <text x="460" y="27" font-size="20" opacity="0.23" class="lC" style="animation-delay:2.4s">🔵</text>
+  <text x="515" y="31" font-size="20" opacity="0.17" class="lA" style="animation-delay:2.7s">💠</text>
+  <text x="570" y="29" font-size="20" opacity="0.21" class="lB" style="animation-delay:3.0s">📊</text>
+  <text x="625" y="33" font-size="20" opacity="0.24" class="lC" style="animation-delay:3.3s">⌨️</text>
+</svg>

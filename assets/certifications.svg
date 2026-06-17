@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 52" width="680" height="52">
+  <defs>
+    <style>
+      @keyframes certA { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+      @keyframes certB { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-12px); } }
+      @keyframes certC { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+      .cA { animation: certA 4s ease-in-out infinite; }
+      .cB { animation: certB 5.2s ease-in-out infinite; }
+      .cC { animation: certC 3.8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="50" y="32" font-size="20" fill="#e3b341" opacity="0.25" class="cA" style="animation-delay:0s">🏅</text>
+  <text x="150" y="28" font-size="20" fill="#e3b341" opacity="0.20" class="cB" style="animation-delay:0.3s">⭐</text>
+  <text x="250" y="35" font-size="20" fill="#e3b341" opacity="0.28" class="cC" style="animation-delay:0.6s">🎓</text>
+  <text x="350" y="26" font-size="20" fill="#e3b341" opacity="0.18" class="cA" style="animation-delay:0.9s">🏆</text>
+  <text x="440" y="33" font-size="22" fill="#e3b341" opacity="0.22" class="cB" style="animation-delay:1.2s">✦</text>
+  <text x="540" y="30" font-size="20" fill="#e3b341" opacity="0.15" class="cC" style="animation-delay:1.5s">🌟</text>
+</svg>

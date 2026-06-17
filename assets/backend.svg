@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 52" width="680" height="52">
+  <defs>
+    <style>
+      @keyframes gearA { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-8px) rotate(20deg); } }
+      @keyframes gearB { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-10px) rotate(-20deg); } }
+      @keyframes gearC { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-6px) rotate(15deg); } }
+      .gA { animation: gearA 4s ease-in-out infinite; }
+      .gB { animation: gearB 5.2s ease-in-out infinite; }
+      .gC { animation: gearC 3.8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="40" y="32" font-size="20" fill="#f0883e" opacity="0.25" class="gA" style="animation-delay:0s">⚙</text>
+  <text x="120" y="28" font-size="20" fill="#f0883e" opacity="0.20" class="gB" style="animation-delay:0.3s">🔧</text>
+  <text x="200" y="35" font-size="20" fill="#f0883e" opacity="0.28" class="gC" style="animation-delay:0.6s">⚡</text>
+  <text x="280" y="26" font-size="20" fill="#f0883e" opacity="0.18" class="gA" style="animation-delay:0.9s">🛠</text>
+  <text x="360" y="33" font-size="20" fill="#f0883e" opacity="0.22" class="gB" style="animation-delay:1.2s">📡</text>
+  <text x="440" y="30" font-size="20" fill="#f0883e" opacity="0.15" class="gC" style="animation-delay:1.5s">🔌</text>
+  <text x="520" y="28" font-size="20" fill="#f0883e" opacity="0.26" class="gA" style="animation-delay:1.8s">🗄</text>
+  <text x="600" y="34" font-size="20" fill="#f0883e" opacity="0.19" class="gB" style="animation-delay:2.1s">🧩</text>
+</svg>

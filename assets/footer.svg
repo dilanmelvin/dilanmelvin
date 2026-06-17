@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 56" width="760" height="56">
+  <defs>
+    <style>
+      @keyframes waveA { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-12px); } }
+      @keyframes waveB { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-14px); } }
+      @keyframes waveC { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+      .wA { animation: waveA 4s ease-in-out infinite; }
+      .wB { animation: waveB 5.2s ease-in-out infinite; }
+      .wC { animation: waveC 3.8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="20" y="35" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.22" class="wA" style="animation-delay:0s">&lt;</text>
+  <text x="80" y="30" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.18" class="wB" style="animation-delay:0.3s">/</text>
+  <text x="140" y="38" font-family="monospace" font-size="18" fill="#e3b341" opacity="0.25" class="wC" style="animation-delay:0.6s">fn</text>
+  <text x="200" y="28" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.15" class="wA" style="animation-delay:0.9s">{}</text>
+  <text x="270" y="35" font-family="monospace" font-size="22" fill="#e3b341" opacity="0.20" class="wB" style="animation-delay:1.2s">→</text>
+  <text x="340" y="32" font-family="monospace" font-size="22" fill="#e3b341" opacity="0.28" class="wC" style="animation-delay:1.5s">∞</text>
+  <text x="410" y="30" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.17" class="wA" style="animation-delay:1.8s">[]</text>
+  <text x="470" y="36" font-family="serif" font-size="22" fill="#e3b341" opacity="0.23" class="wB" style="animation-delay:2.1s">λ</text>
+  <text x="530" y="28" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.14" class="wC" style="animation-delay:2.4s">()</text>
+  <text x="590" y="34" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.26" class="wA" style="animation-delay:2.7s">⚙</text>
+  <text x="650" y="30" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.19" class="wB" style="animation-delay:3.0s">#</text>
+  <text x="710" y="35" font-family="monospace" font-size="20" fill="#e3b341" opacity="0.22" class="wC" style="animation-delay:3.3s">&gt;</text>
+</svg>
