@@ -2,12 +2,12 @@
 
 <img src="./assets/header.svg" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dilan+Melvin+%F0%9F%91%8B;ML+Engineer+%26+Full-Stack+Dev;Building+things+daily+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dilan+Melvin+%F0%9F%91%8B;AI/ML+Engineer+%26+Full-Stack+Dev;Building+things+daily+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
 <br/>
 
 ![B.Tech — AI & Data Science](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-e3b341?style=flat-square&labelColor=0d1117)
-![Chennai, India](https://img.shields.io/badge/Chennai-India%20🇮🇳-58a6ff?style=flat-square&labelColor=0d1117)
+![Coimbatore, India](https://img.shields.io/badge/Chennai-India%20🇮🇳-58a6ff?style=flat-square&labelColor=0d1117)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-f0883e?style=flat-square&labelColor=0d1117)
 
 </div>
@@ -42,7 +42,7 @@
 📈 Avg Commits / Day    ~9.80
 ☁️  Cloud Cost Reduction  80%
 🚀 Throughput Gain       40%
-🛠️  Open-Source           FastAPI Contributor
+🛠️  Open-Source           FastAPI , HeyPuter , twentyhq Contributor
 ```
 
 ---
