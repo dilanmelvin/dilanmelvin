@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech — AI & Data Science](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-e3b341?style=flat-square&labelColor=0d1117)
-![Coimbatore, India](https://img.shields.io/badge/Chennai-India%20🇮🇳-58a6ff?style=flat-square&labelColor=0d1117)
+![Coimbatore, India](https://img.shields.io/badge/Coimbatore-India%20🇮🇳-58a6ff?style=flat-square&labelColor=0d1117)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-f0883e?style=flat-square&labelColor=0d1117)
 
 </div>
